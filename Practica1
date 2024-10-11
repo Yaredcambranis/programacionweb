@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <meta charset = "UTF-8">
+    <title> Programación Web </title>
+  </head>
+<body> 
+  <h1> Prácticas de laboratorio de Ivan Yared Cambranis Juarez </h1>
+  <a href = "Practica1.html"> Práctica 1 </a> <br>
+  <a href = "Practica2.html"> Práctica 2 </a>
+</body>
