@@ -19,5 +19,5 @@
   <a href = "PRACTICA 5.php"> Practica5 php </a> <br>  
   <a href = "PRACTICA 6.php"> Practica6 php </a> <br>
   <a href = "image.png"> Practica7 php </a> <br>
-  <a href = "PHOTO-2024-11-20-14-50-07.jpg"> Practica7 php </a> <br>
+  <a href = "PHOTO-2024-11-20-14-50-07.jpg"> Practica8 php </a> <br>
 </body>
