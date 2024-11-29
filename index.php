@@ -22,7 +22,6 @@
   <a href = "PHOTO-2024-11-20-14-50-07.jpg"> Practica8 php </a> <br>
   <a href = "PRACTICA 9.php"> Practica9 php </a> <br>
   <a href = "WhatsApp Image 2024-11-26 at 14.56.09.jpeg"> Practica10 php </a> <br>
-  <a href = "Insert.php"> Insert php </a> <br>
   <a href = "PRACTICA 11.php"> Practica11 php </a> <br>
   <a href = "Registrousuario.html"> Registrousuario </a> <br>
   <a href = "BDLocal.php"> BDLocal php </a> <br>
